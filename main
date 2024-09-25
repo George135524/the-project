@@ -5,7 +5,7 @@ int main()
 {
 cout<<"yes";
 
-court << "Hollow Purple";
+court << "hello"
 
 
 };
